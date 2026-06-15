@@ -1,0 +1,20 @@
+# Python 3.8 recommended.
+# Install PyTorch and Mamba packages separately — see README "Tested environment".
+
+einops==0.7.0
+h5py==2.10.0
+yacs==0.1.8
+scipy==1.5.2
+pandas==1.1.5
+scikit-image==0.17.2
+numpy==1.22.0
+matplotlib==3.1.2
+opencv-python==4.5.2.54
+PyYAML==6.0
+scikit-learn==1.0.2
+tensorboardX==2.4.1
+timm==0.9.16
+tqdm>=4.64.0,<5
+mat73==0.59
+thop==0.1.1.post2209072238
+reformer-pytorch==1.4.4
